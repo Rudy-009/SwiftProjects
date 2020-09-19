@@ -3,27 +3,32 @@
    version = "3.0">
    <TimelineItems>
       <LoggerValueHistoryTimelineItem
-         documentLocation = "file:///Users/iseungjun/Git/SwiftProjects/MyPlayground01.playground#CharacterRangeLen=3&amp;CharacterRangeLoc=19&amp;EndingColumnNumber=8&amp;EndingLineNumber=2&amp;StartingColumnNumber=5&amp;StartingLineNumber=2&amp;Timestamp=622203397.463371"
+         documentLocation = "file:///Users/iseungjun/Git/SwiftProjects/MyPlayground01.playground#CharacterRangeLen=3&amp;CharacterRangeLoc=19&amp;EndingColumnNumber=8&amp;EndingLineNumber=2&amp;StartingColumnNumber=5&amp;StartingLineNumber=2&amp;Timestamp=622205100.416941"
          selectedRepresentationIndex = "0"
          shouldTrackSuperviewWidth = "NO">
       </LoggerValueHistoryTimelineItem>
       <LoggerValueHistoryTimelineItem
-         documentLocation = "file:///Users/iseungjun/Git/SwiftProjects/MyPlayground01.playground#CharacterRangeLen=10&amp;CharacterRangeLoc=45&amp;EndingColumnNumber=0&amp;EndingLineNumber=4&amp;StartingColumnNumber=1&amp;StartingLineNumber=3&amp;Timestamp=622203397.4666491"
+         documentLocation = "file:///Users/iseungjun/Git/SwiftProjects/MyPlayground01.playground#CharacterRangeLen=10&amp;CharacterRangeLoc=45&amp;EndingColumnNumber=0&amp;EndingLineNumber=4&amp;StartingColumnNumber=1&amp;StartingLineNumber=3&amp;Timestamp=622205100.421407"
          selectedRepresentationIndex = "0"
          shouldTrackSuperviewWidth = "NO">
       </LoggerValueHistoryTimelineItem>
       <LoggerValueHistoryTimelineItem
-         documentLocation = "file:///Users/iseungjun/Git/SwiftProjects/MyPlayground01.playground#CharacterRangeLen=1&amp;CharacterRangeLoc=102&amp;EndingColumnNumber=6&amp;EndingLineNumber=11&amp;StartingColumnNumber=5&amp;StartingLineNumber=11&amp;Timestamp=622203397.466825"
+         documentLocation = "file:///Users/iseungjun/Git/SwiftProjects/MyPlayground01.playground#CharacterRangeLen=1&amp;CharacterRangeLoc=178&amp;EndingColumnNumber=6&amp;EndingLineNumber=19&amp;StartingColumnNumber=5&amp;StartingLineNumber=19&amp;Timestamp=622205100.421688"
          selectedRepresentationIndex = "0"
          shouldTrackSuperviewWidth = "NO">
       </LoggerValueHistoryTimelineItem>
       <LoggerValueHistoryTimelineItem
-         documentLocation = "file:///Users/iseungjun/Git/SwiftProjects/MyPlayground01.playground#CharacterRangeLen=1&amp;CharacterRangeLoc=131&amp;EndingColumnNumber=6&amp;EndingLineNumber=14&amp;StartingColumnNumber=5&amp;StartingLineNumber=14&amp;Timestamp=622203397.467013"
+         documentLocation = "file:///Users/iseungjun/Git/SwiftProjects/MyPlayground01.playground#CharacterRangeLen=1&amp;CharacterRangeLoc=131&amp;EndingColumnNumber=6&amp;EndingLineNumber=14&amp;StartingColumnNumber=5&amp;StartingLineNumber=14&amp;Timestamp=622205100.4220639"
          selectedRepresentationIndex = "0"
          shouldTrackSuperviewWidth = "NO">
       </LoggerValueHistoryTimelineItem>
       <LoggerValueHistoryTimelineItem
-         documentLocation = "file:///Users/iseungjun/Git/SwiftProjects/MyPlayground01.playground#CharacterRangeLen=1&amp;CharacterRangeLoc=90&amp;EndingColumnNumber=6&amp;EndingLineNumber=8&amp;StartingColumnNumber=5&amp;StartingLineNumber=8&amp;Timestamp=622203397.4671479"
+         documentLocation = "file:///Users/iseungjun/Git/SwiftProjects/MyPlayground01.playground#CharacterRangeLen=1&amp;CharacterRangeLoc=102&amp;EndingColumnNumber=6&amp;EndingLineNumber=11&amp;StartingColumnNumber=5&amp;StartingLineNumber=11&amp;Timestamp=622205100.422401"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/iseungjun/Git/SwiftProjects/MyPlayground01.playground#CharacterRangeLen=1&amp;CharacterRangeLoc=90&amp;EndingColumnNumber=6&amp;EndingLineNumber=8&amp;StartingColumnNumber=5&amp;StartingLineNumber=8&amp;Timestamp=622205100.422664"
          selectedRepresentationIndex = "0"
          shouldTrackSuperviewWidth = "NO">
       </LoggerValueHistoryTimelineItem>
