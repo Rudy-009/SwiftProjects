@@ -6,7 +6,7 @@ print(str)
 var j = 0;
 
 for i in 0...3 {
-    j+=i
+    j += i
 }
 
 var k = 10;
@@ -17,5 +17,5 @@ for i in 0...4{
 }
 
 for i in 0...3{
-    j+= 1
+    j += i
 }
